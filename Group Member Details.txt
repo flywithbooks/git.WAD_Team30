@@ -1,5 +1,5 @@
 # git.WAD_Team30
-A wad project
+WAD project Details
 
 Team no: 30
 
