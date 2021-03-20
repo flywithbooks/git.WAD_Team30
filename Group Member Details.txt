@@ -3,7 +3,7 @@ WAD project Details
 
 Team no: 30
 
-Our project aim: Book Service
+Our project aim: Free Book Service
 Our project name : Flywithbooks
 
 Team members:
