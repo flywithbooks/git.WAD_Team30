@@ -1,7 +1,7 @@
 # git.WAD_Team30
 WAD project Details
 
-Team no: 30
+Group no: 30
 
 Our project aim: Free Book Service
 Our project name : Flywithbooks
