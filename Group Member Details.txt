@@ -4,7 +4,7 @@ WAD project Details
 Group no: 30
 
 Our project aim: Free Book Service
-Our project name : Flywithbooks
+Our project name : FlyWithBooks
 
 Team members:
 1. Anirudh Jakhotia
